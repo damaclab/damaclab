@@ -9,7 +9,7 @@ You can mail me @ kartick.mondal@jadavpuruniversity.in or kartickjgec@gmail.com
 
 You can get the detail of the owner of the account @
 
-![image]([https://user-images.githubusercontent.com/131738591/235050464-1bbf1ec3-d5c9-4697-9574-bdc82152d242.png](https://www.facebook.com/K.Ch.Mondal))
+![image](https://www.facebook.com/K.Ch.Mondal)
 
 <!---
 damaclab/damaclab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
