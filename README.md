@@ -32,9 +32,10 @@ You can get the detail of the owner of the account @ https://sites.google.com/si
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kartick-mondal-25260725/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.researchgate.net/profile/Dr-Kartick-Mondal" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/2048px-ResearchGate_icon_SVG.svg.png" height="30" width="40" /></a>
+<a href="https://www.researchsquare.com/home" target="blank"><img align="center" src="https://uploads-ssl.webflow.com/5f342002b2f7dc5f3a5a8339/6115165d549a4a4cfb6520f7_rs-icon.png" height="30" width="40" /></a>
 
-<a href="https://www.researchgate.net/profile/Dr-Kartick-Mondal" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://commons.wikimedia.org/wiki/File:ResearchGate_icon_SVG.svg)" height="30" width="40" /></a>
-  
+
 <a href="https://www.codechef.com/users/chefkartick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>
 <a href="https://leetcode.com/kartickchandramondal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
